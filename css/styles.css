@@ -445,7 +445,9 @@ fieldset {
   margin: 0;
   border: 0;
 }
-
+p {
+  font-size: 0.25rem;
+}
 legend {
   float: left;
   width: 100%;
